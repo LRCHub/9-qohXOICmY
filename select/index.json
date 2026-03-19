@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Attack it!",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-03-19T13:18:06.775379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Attack it!",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/01_Attack_it!_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/02_Attack_it!_嵐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Attack it! (hidden track)",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/03_Attack_it!_(hidden_track)_Arashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Attack_it!_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_02_Attack_it!_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_03_Attack_it!_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_04_Attack_it!_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_05_Attack_it!_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_06_Attack_it!_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Attack it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_07_Attack_it!_嵐.txt"
+    }
+  ]
+}
